@@ -1,12 +1,3 @@
 # Koero Labs
 
-## Links
-### Apps
-| App | Link |
-| --- | --- |
-| Web | https://koerolabs.com |
-
-### Socials
-| Social | Link |
-| --- | --- |
-| Twitter | https://twitter.com/koerolabs |
+check out [aeronode](https://www.aeronode.io)! --> its [open-source](https://github.com/koerolabs/aeronode)
