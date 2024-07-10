@@ -1,3 +1,9 @@
 # Koero Labs
+Making drone programming dead simple.
 
-check out [aeronode](https://www.aeronode.io)! --> its [open-source](https://github.com/koerolabs/aeronode)
+## Links
+| App | Links |
+| :---: | :---: |
+| AeroNode | [website](https://www.aeronode.io) / [repo](https://github.com/koerolabs/aeronode) |
+| Koero Labs | [website](https://koerolabs.com) |
+| Socials | [twitter](https://twitter.com/koerolabs) / [instagram](https://instagram.com/koerolabs)|
